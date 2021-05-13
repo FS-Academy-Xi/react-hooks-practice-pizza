@@ -1,8 +1,8 @@
-# Practice Challenge: Flatiron Pizza
+# Practice Challenge: AXi Pizza
 
 ![Pizza Screen Recording](https://curriculum-content.s3.amazonaws.com/react/pizza.gif)
 
-Welcome to your first day at the Flatiron Pizzeria!
+Welcome to your first day at the Academy Xi Pizzeria!
 
 Today, you are tasked to building an online menu of all the pizzas that the
 pizzeria offers.
